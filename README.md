@@ -1,1 +1,1 @@
-# Analytics_Vidhya_ML_Projects
+Simple Machine Learning Projects done by me.
